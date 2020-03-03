@@ -1,23 +1,27 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Xintao</strong> Niu (钮鑫涛)
+description: <a href="">Department of Computer Science and Technology, Nanjing University </a>  
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: niu.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computer Science Building 1019</p>
+    <p>163 Xianlin Avenue, Qixia District </p>
+    <p>Nanjing, China, 210023</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently an Assistant Researcher at Department of Computer Science and Technology, Nanjing University. I am also part of the Group in Software Testing (GIST). My current research interest lies in the area of Fault localization, Combinatorial testing, Software Testing, Software Repair.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my PhD degree from Nanjing University in June 2019, under the supervision of Professor [Changhai Nie](http://gist.nju.edu.cn/~changhai/), and BSc from Nanjing University of Science and Technology in June 2011. I have been a visiting student at the University of Texas at Arlington (UTA) in 2016, under the supervision of Professor [Lei yu](http://ranger.uta.edu/~ylei/index.html). I have been a research assistant at University of Texas at San Antonio (UTSA) from September 2015 to April 2016, where I worked with Professor [Xiaoyin Wang](http://www.cs.utsa.edu/~xwang/index.html).
+
+
+I am looking for students who are interested in Software testing. Please feel free to drop me an email.
+
+对软件测试方向感兴趣的同学，欢迎随时邮件联系。
