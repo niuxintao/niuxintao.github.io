@@ -44,8 +44,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Small Blog
-blog_description: I will remove this page in the future
+blog_name: 记录
+blog_description: 琐碎
 
 # Pagination
 paginate: 4
@@ -58,7 +58,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: Small Blog # put your disqus shortname
+disqus_shortname: 记录 # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
