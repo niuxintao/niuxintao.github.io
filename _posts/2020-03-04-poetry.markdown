@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  咏怀古迹五首·其一
-description: 信平生最萧瑟，暮年诗赋动江关
+description: 庾信平生最萧瑟，暮年诗赋动江关
 ---
 
 ### 咏怀古迹五首·其一
@@ -22,7 +22,6 @@ description: 信平生最萧瑟，暮年诗赋动江关
 <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/assets/img/yuxin.jpg">
 </div>
-
 * * *
 
 ### 注释
