@@ -5,7 +5,7 @@ description:
 ---
 ### Slides
 
-1. [软件工程与计算1课程简介](00 软件工程与计算1课程简介.pdf)
+1. [软件工程与计算1课程简介](/assets/pdf/2023Spring-SE-1/00 软件工程与计算1课程简介.pdf)
 1. [基础-编程语言概述](/assets/pdf/2023Spring-SE-1/01 基础-编程语言概述.pdf)
 1. [基础-可计算性](/assets/pdf/2023Spring-SE-1/02 基础-可计算性.pdf)
 1. [基础-Lambda演算](/assets/pdf/2023Spring-SE-1/03 基础-Lambda演算.pdf)
