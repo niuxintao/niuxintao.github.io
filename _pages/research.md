@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
-description: A detailed explaination of my research
+description: A detailed explanation of my research
 ---
 
 - Software Engineering
