@@ -3,8 +3,6 @@ layout: distill
 permalink: /join-us/
 title: 加入我们
 description: 
-toc:
-  sidebar: left
 nav: false
 date: 2023-07-27
 authors:
