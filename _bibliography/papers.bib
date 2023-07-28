@@ -73,18 +73,26 @@
   abstract = {This paper presents RestCT, a systematic and fully automatic approach that adopts Combinatorial Testing (CT) to test RESTful APIs. RestCT is systematic in that it covers and tests not only the interactions of a certain number of operations in RESTful APIs, but also the interactions of particular input-parameters in every single operation. This is realised by a novel two-phase test case generation approach, which first generates a constrained sequence covering array to determine the execution orders of available operations, and then applies an adaptive strategy to generate and refine several constrained covering arrays to concretise input-parameters of each operation. RestCT is also automatic in that its application relies on only a given Swagger specification of RESTful APIs. The creation of CT test models (especially, the inferring of dependency relationships in both operations and input-parameters), and the generation and execution of test cases are performed without any human intervention. Experimental results on 11 real-world RESTful APIs demonstrate the effectiveness and efficiency of RestCT. In particular, RestCT can find eight new bugs, where only one of them can be triggered by the state-of-the-art testing tool of RESTful APIs.},
 }
 
-
 @article{zzhiqiang2023,
-  title={Toward More Efficient Statistical Debugging with Abstraction Refinement},
-  abbr={TOSEM},
-  author={Zhiqiang Zuo and Xintao Niu and Siyi Zhang and Lu Fang and Siau Cheng Khoo and Chengnian Sun and Harry Xu},
-  journal={ACM Transactions on Software Engineering and Methodology},
-  year={2023},
-  publisher={ACM},
+  author = {Zuo, Zhiqiang and Niu, Xintao and Zhang, Siyi and Fang, Lu and Khoo, Siau Cheng and Lu, Shan and Sun, Chengnian and Xu, Guoqing Harry},
+  title = {Toward More Efficient Statistical Debugging with Abstraction Refinement},
+  year = {2023},
+  issue_date = {March 2023},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {32},
+  number = {2},
+  issn = {1049-331X},
+  html = {https://doi.org/10.1145/3544790},
+  doi = {10.1145/3544790},
+  abstract = {Debugging is known to be a notoriously painstaking and time-consuming task. As one major family of automated debugging, statistical debugging approaches have been well investigated over the past decade, which collect failing and passing executions and apply statistical techniques to identify discriminative elements as potential bug causes. Most of the existing approaches instrument the entire program to produce execution profiles for debugging, thus incurring hefty instrumentation and analysis cost. However, as in fact a major part of the program code is error-free, full-scale program instrumentation is wasteful and unnecessary. This article presents a systematic abstraction refinement-based pruning technique for statistical debugging. Our technique only needs to instrument and analyze the code partially. While guided by a mathematically rigorous analysis, our technique is guaranteed to produce the same debugging results as an exhaustive analysis in deterministic settings. With the help of the effective and safe pruning, our technique greatly saves the cost of failure diagnosis without sacrificing any debugging capability. We apply this technique to two different statistical debugging scenarios: in-house and production-run statistical debugging. The comprehensive evaluations validate that our technique can significantly improve the efficiency of statistical debugging in both scenarios, while without jeopardizing the debugging capability.},
+  journal = {ACM Trans. Softw. Eng. Methodol.},
+  month = {mar},
+  articleno = {36},
+  numpages = {38},
+  keywords = {abstraction refinement, Statistical debugging, fault localization, selective instrumentation}, 
   selected={false},
   bibtex_show={true},
-  html={https://dl.acm.org/doi/10.1145/3544790}, 
-  abstract = {Debugging is known to be a notoriously painstaking and time-consuming task. As one major family of automated debugging, statistical debugging approaches have been well investigated over the past decade, which collect failing and passing executions and apply statistical techniques to identify discriminative elements as potential bug causes. Most of the existing approaches instrument the entire program to produce execution profiles for debugging, thus incurring hefty instrumentation and analysis cost. However, as in fact a major part of the program code is error-free, full-scale program instrumentation is wasteful and unnecessary. This article presents a systematic abstraction refinement-based pruning technique for statistical debugging. Our technique only needs to instrument and analyze the code partially. While guided by a mathematically rigorous analysis, our technique is guaranteed to produce the same debugging results as an exhaustive analysis in deterministic settings. With the help of the effective and safe pruning, our technique greatly saves the cost of failure diagnosis without sacrificing any debugging capability. We apply this technique to two different statistical debugging scenarios: in-house and production-run statistical debugging. The comprehensive evaluations validate that our technique can significantly improve the efficiency of statistical debugging in both scenarios, while without jeopardizing the debugging capability.},
 }
 
 
