@@ -5,20 +5,24 @@ description:
 ---
 
 #### 公告
-- 2023/8/21
-
-  发布课程网站
+- [2023/8/21] 发布课程网站
 
 #### 课程信息
 
-- 教师：[钮鑫涛](niuxintao.githu.io), niuxintao@nju.edu.cn
+- 教师：[钮鑫涛](niuxintao.githu.io) (niuxintao@nju.edu.cn)
 - 助教：
-  - 陈宏楠, MG21330010@smail.nju.edu.cn
+  - 陈宏楠 (MG21330010@smail.nju.edu.cn)
 - 时间：周四 5-7节
 - 地点：南雍-西311
 - QQ群：892855425（申请加入需提供院系、姓名、学号）
 - 课程OJ：待定（需要南京大学统一认证登录）
 - Office Hour：待定
+
+#### 前导知识 
+
+- 程序设计基础 (C和JAVA)
+
+- 离散数学
 
 #### 课程简介
 
@@ -41,24 +45,6 @@ description:
 - 算法设计与分析技术部分：理解分治、贪心、动态规划等常见算法设计技术，并在此基础上初步学会合理利用这些技术设计算法。能够对算法进行正确性分析和复杂度分析。
 - 经典算法部分：学习并掌握若干经典算法，包括其正确性、复杂性、以及所涉及的算法设计思想和分析技术。能够较为熟练地使用这些算法及其变种解决实际问题。
 
-##### 前导知识 
-
-- 程序设计基础 (C、JAVA)
-
-- 离散数学
-
-#### 课本和参考材料
-
-- 课本：《算法导论》，作者：Thomas H. Cormen， Charles E. Leiserson,  Ronald L. Rivest, Clidfford Stein（即著名的CLRS），第三版或第四版
-- 参考书：
-  - 《数据结构与算法分析》,（JAVA语言描述或C++预言描述)，作者：Mark Allen Weiss, 第三版
-  - 《算法》，作者：Robert Sedgewick，Kevin Wayne, 第四版 （即红宝书）
-  - 《数据结构 C++语言版》，作者：邓俊辉，清华大学出版社，第三版
-  - 《Algorithms》，作者：Jeff Erickson
-- 在线参考课程：
-  - [CS61b](datastructur.es) (UC Berkeley)
-  - Algorithms [Part1](https://www.coursera.org/learn/algorithms-part1) & [Part2](https://www.coursera.org/learn/algorithms-part2)  (Princeton)
-
 
 #### 课程安排
 
@@ -73,14 +59,28 @@ description:
 
 <br>
 
+#### 课本和参考材料
+
+- 课本：*[算法导论(Introduction to Algorithms)](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)*, 第三版或第四版, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clidfford Stein（即著名的*CLRS*）
+- 参考书：
+  - *[数据结构与算法分析(Data Structures and Algorithm Analysis, 第三版)](http://users.cs.fiu.edu/~weiss/#dsaac++3)*, *JAVA*语言描述或*C++*语言描述, by Mark Allen Weiss
+  - *[算法(Algorithms, 第四版)](https://algs4.cs.princeton.edu/home/)*, 也称“*红宝书*”, by Robert Sedgewick, Kevin Wayne
+  - *[数据结构(第三版)](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/)*, 邓俊辉, 清华大学出版社
+  - *[Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)*, by Jeff Erickson
+- 在线参考课程：
+  - [CS61B](datastructur.es) (UC Berkeley)
+  - Algorithms [Part1](https://www.coursera.org/learn/algorithms-part1) & [Part2](https://www.coursera.org/learn/algorithms-part2) (Princeton)
+
 #### 评分准则
 
-- 期末考试(40%)  + 平时作业(30%) + 编程实践(30%)
+- 期末考试(40%) + 平时作业(30%) + 编程实践(30%)
 
 #### 学术诚信
 
 - 作业完成的原则：署你名字的工作必须是你个人的贡献，因此请尽量独立完成所有作业和编程题。
 
-- 在完成作业的过程中，如果确实需要，允许讨论，但要在作业中致谢（acknowledge）所有参与讨论的人。
+- 在完成作业的过程中，如果确实需要，允许讨论，但要在作业中致谢(acknowledge)所有参与讨论的人。
 
-- 不要在网上搜索答案（也不要用Chatgpt等类似工具）
+- 不要在网上搜索答案（也不要用ChatGPT等类似工具）。
+
+#### 致谢
