@@ -9,7 +9,7 @@ description:
 
 #### 课程信息
 
-- 教师：[钮鑫涛](niuxintao.githu.io) (niuxintao@nju.edu.cn)
+- 教师：[钮鑫涛](https://niuxintao.githu.io) (niuxintao@nju.edu.cn)
 - 助教：
   - 陈宏楠 (MG21330010@smail.nju.edu.cn)
 - 时间：周四 5-7节
@@ -66,9 +66,10 @@ description:
   - *[数据结构与算法分析(Data Structures and Algorithm Analysis, 第三版)](http://users.cs.fiu.edu/~weiss/#dsaac++3)*, *JAVA*语言描述或*C++*语言描述, by Mark Allen Weiss
   - *[算法(Algorithms, 第四版)](https://algs4.cs.princeton.edu/home/)*, 也称“*红宝书*”, by Robert Sedgewick, Kevin Wayne
   - *[数据结构(第三版)](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/)*, 邓俊辉, 清华大学出版社
+  - [*Algorithm Design*](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/), by Jon Kleinberg and Éva Tardos
   - *[Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)*, by Jeff Erickson
 - 在线参考课程：
-  - [CS61B](datastructur.es) (UC Berkeley)
+  - [CS61B](https://datastructur.es) (UC Berkeley)
   - Algorithms [Part1](https://www.coursera.org/learn/algorithms-part1) & [Part2](https://www.coursera.org/learn/algorithms-part2) (Princeton)
 
 #### 评分准则
@@ -83,4 +84,10 @@ description:
 
 - 不要在网上搜索答案（也不要用ChatGPT等类似工具）。
 
-#### 致谢
+#### 致谢（Acknowledgement）
+
+感谢[郑朝栋](https://chaodong.me)老师提供专业的大纲、课件、以及耐心的指导
+
+感谢[Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/)博士提供的课件和指导<br>
+We appreciate [Dr. Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/) for his kindly sharing of his slides for the book *Algorithm Design*.
+
