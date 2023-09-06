@@ -12,6 +12,7 @@ description:
 - 教师：[钮鑫涛](https://niuxintao.githu.io) (niuxintao@nju.edu.cn)
 - 助教：
   - 陈宏楠 (MG21330010@smail.nju.edu.cn)
+  - 谢润烁 (幕后)
 - 时间：周四 5-7节
 - 地点：南雍-西311
 - QQ群：892855425（申请加入需提供院系、姓名、学号）
