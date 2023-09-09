@@ -5,22 +5,42 @@ description:
 ---
 
 #### 公告
+- [2023/9/9] 在Piazza上创建课程群，欢迎需要匿名提问/反馈/讨论的同学加入（详见课程信息）
 - [2023/8/21] 发布课程网站
 
 #### 课程信息
 
 - 教师：[钮鑫涛](https://niuxintao.githu.io) (niuxintao@nju.edu.cn)
+
 - 助教：
   - 陈宏楠 (MG21330010@smail.nju.edu.cn)
   - 谢润烁 (幕后)
+  
 - 时间：周四 5-7节
+
 - 地点：南雍-西311
+
 - QQ群：892855425（申请加入需提供院系、姓名、学号）
-- [课程OJ](http://172.29.6.1)（仅校园网访问）
-- Office Hour ([什么是Office Hour?](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf))
+
+- [课程OJ](http://172.29.6.1) （仅校园网访问）
+
+- Office Hour （[什么是Office Hour?](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)）
   - 周三下午 2:00~4:00
   - 周四上午 10:00~12:00
-
+  
+- Piazza<br>由于QQ群现在的匿名机制不好用，以及在QQ群问问题容易被忽略，我们这学期尝试用[Piazza](https://piazza.com/)作为课程的论坛。我们不强制要求必须使用，但是我们非常推荐使用，因为Piazza有如下的好处：
+  - 可以匿名提问或反馈<br>可以选择仅对同学们匿名（也就是说对老师助教不匿名），或者对所有人（包括老师和助教）都匿名
+  - 问题可以用Markdown书写，并且支持LaTeX书写数学公式
+  - 问题可以被分门别类，查找起来非常方便
+  - 只要po了一个新问题，参与者都会收到一封通知邮件（可以手动关闭）
+  - 老师和助教会对其中涉及课程内容进行回答（环境等问题可能不回答），可能在piazza上回答，也可能在课上讲
+  
+  <br>
+  
+  加入Piazza的方法：
+  - 注册一个Piazza的账号
+  - 用[Signup Link](https://piazza.com/nju.edu.cn/fall2023/90311202)找到课程
+  - 用Access Code: **isedsa2023**加入课程
 
 #### 前导知识 
 
@@ -69,7 +89,7 @@ description:
   - *[数据结构与算法分析(Data Structures and Algorithm Analysis, 第三版)](http://users.cs.fiu.edu/~weiss/#dsaac++3)*, *JAVA*语言描述或*C++*语言描述, by Mark Allen Weiss
   - *[算法(Algorithms, 第四版)](https://algs4.cs.princeton.edu/home/)*, 也称“*红宝书*”, by Robert Sedgewick, Kevin Wayne
   - *[数据结构(第三版)](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/)*, 邓俊辉, 清华大学出版社
-  - [*Algorithm Design*](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/), by Jon Kleinberg and Éva Tardos
+  - *[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)*, by Jon Kleinberg and Éva Tardos
   - *[Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)*, by Jeff Erickson
 - 在线参考课程：
   - [CS61B](https://datastructur.es) (UC Berkeley)
