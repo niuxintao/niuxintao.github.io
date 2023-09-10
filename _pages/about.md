@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 中文简介：钮鑫涛，新体制准聘助理教授，博士生导师，于2019年获得南京大学博士学位。主要研究方向为：软件测试与分析（主要为组合测试理论）、故障定位。
 
-如果想成为我们团队的一员，请先查看[这个页面](/join-us/)。
+我们常年招收本科生、硕士生和博士生，如果想成为我们团队的一员，不妨先看一下[这个页面](/join-us/)。如果对软件测试等领域感兴趣的话，也欢迎随时联系。
 
 I am currently an Assistant Professor at School of Intelligent Software and Engineering, Nanjing University. Before joining School of Intelligent Software and Engineering, I was an Assistant Researcher at [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). I am also part of the [Group in Software Testing (GIST)](http://gist.nju.edu.cn/). My current research interest lies in the area of Fault localization, Combinatorial testing, Software Testing, Software Repair.
 
