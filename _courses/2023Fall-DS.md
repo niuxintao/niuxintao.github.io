@@ -44,9 +44,8 @@ description:
   <br>
 
   加入Piazza的方法：
-  - 注册一个Piazza的账号
   - 用[Signup Link](https://piazza.com/nju.edu.cn/fall2023/90311202)找到课程
-  - 用Access Code: **isedsa2023**加入课程
+  - 用Access Code: **isedsa2023**加入课程（此时需要输入邮箱，然后系统会自动帮你注册一个新的账号）
 
 #### 前导知识 
 
