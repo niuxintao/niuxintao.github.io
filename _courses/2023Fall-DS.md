@@ -10,7 +10,7 @@ description:
 
 #### 课程信息
 
-- 教师：[钮鑫涛](https://niuxintao.githu.io) (niuxintao@nju.edu.cn)
+- 教师：[钮鑫涛](https://niuxintao.github.io) (niuxintao@nju.edu.cn)
 
 - 助教：
   - 陈宏楠 (MG21330010@smail.nju.edu.cn)
