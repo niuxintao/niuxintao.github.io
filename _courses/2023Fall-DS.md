@@ -5,6 +5,7 @@ description:
 ---
 
 #### 公告
+- [2023/9/14] 第一次作业已发布，请同学们加入[SELearning](https://selearning.nju.edu.cn/)并及时完成作业
 - [2023/9/9] 在Piazza上创建课程群，欢迎需要匿名提问/反馈/讨论的同学加入（详见课程信息）
 - [2023/8/21] 发布课程网站
 
@@ -76,16 +77,20 @@ description:
 
 #### 课程安排
 
-| 主题               | 时间     | 课件                                                 | 作业 |
-| ------------------ | -------- | ---------------------------------------------------- | ---- |
-| 1.课程简介与基础   | 2023/9/7 | [1.课程简介](/assets/pdf/2023Fall-DS/1.课程简介.pdf) |      |
-| 2.排序与选择       |          |                                                      |      |
-| 3.查找及相关问题   |          |                                                      |      |
-| 4.图算法           |          |                                                      |      |
-| 5.动态规划         |          |                                                      |      |
-| 6.高级算法（选讲） |          |                                                      |      |
+| 主题               | 时间     | 课件                                                 |
+| ------------------ | -------- | ---------------------------------------------------- |
+| 1.课程简介与基础   | 2023/9/7 | [1.课程简介](/assets/pdf/2023Fall-DS/1.课程简介.pdf) |
+| 2.排序与选择       |          |                                                      |
+| 3.查找及相关问题   |          |                                                      |
+| 4.图算法           |          |                                                      |
+| 5.动态规划         |          |                                                      |
+| 6.高级算法（选讲） |          |                                                      |
 
 <br>
+
+#### 作业
+
+- [Assignment 1](/assets/pdf/2023Fall-DS/A1.pdf), ddl: 2023/9/22 24:00
 
 #### 课本和参考材料
 
@@ -116,4 +121,3 @@ description:
 
 感谢[Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/)博士提供的课件和指导<br>
 We appreciate [Dr. Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/) for his kindly sharing of his slides for the book *Algorithm Design*.
-
