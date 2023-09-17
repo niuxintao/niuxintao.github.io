@@ -121,3 +121,5 @@ description:
 
 感谢[Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/)博士提供的课件和指导<br>
 We appreciate [Dr. Kevin Wayne](https://www.cs.princeton.edu/~wayne/contact/) for his kindly sharing of his slides for the book *Algorithm Design*.
+
+感谢[魏恒峰](https://hengxin.github.io)老师提供的指导和课件
