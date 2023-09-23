@@ -91,6 +91,7 @@ description:
 #### 作业
 
 - [Assignment 1](/assets/pdf/2023Fall-DS/A1.pdf), ddl: 2023/9/22 24:00
+- [Assignment 2](/assets/pdf/2023Fall-DS/A2.pdf), ddl: 2023/10/1 23:59
 
 #### 课本和参考材料
 
