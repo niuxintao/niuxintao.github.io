@@ -5,6 +5,7 @@ description:
 ---
 
 #### 公告
+- [2023/9/30] 第三次作业已发布，请同学们及时完成作业
 - [2023/9/23] 第二次作业已发布，请同学们及时完成作业
 - [2023/9/14] 第一次作业已发布，请同学们加入[SELearning](https://selearning.nju.edu.cn/)并及时完成作业
 - [2023/9/9] 在Piazza上创建课程群，欢迎需要匿名提问/反馈/讨论的同学加入（详见课程信息）
@@ -93,6 +94,7 @@ description:
 
 - [Assignment 1](/assets/pdf/2023Fall-DS/A1.pdf), ddl: 2023/9/22 24:00
 - [Assignment 2](/assets/pdf/2023Fall-DS/A2.pdf), ddl: 2023/10/1 23:59
+- [Assignment 3](/assets/pdf/2023Fall-DS/A3.pdf), ddl: 2023/10/8 23:59
 
 #### 课本和参考材料
 
