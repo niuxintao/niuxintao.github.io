@@ -95,7 +95,7 @@ description:
 
 #### 作业
 
-- [Assignment 1](/assets/pdf/2023Fall-DS/A1.pdf), ddl: 2023/9/22 24:00
+- [Assignment 1](/assets/pdf/2023Fall-DS/A1.pdf), ddl: 2023/9/22 24:00  [参考题解](/assets/pdf/2023Fall-DS/A1 参考题解.pdf) 
 - [Assignment 2](/assets/pdf/2023Fall-DS/A2.pdf), ddl: 2023/10/1 23:59
 - [Assignment 3](/assets/pdf/2023Fall-DS/A3.pdf), ddl: 2023/10/8 23:59
 - [Assignment 4](/assets/pdf/2023Fall-DS/A4.pdf) , ddl: 2023/10/22 23:59
