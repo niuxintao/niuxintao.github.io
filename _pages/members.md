@@ -15,8 +15,6 @@ Jiaming Fan (范佳明), Master, 2021-, on fault localization of CT (co-supervis
 
 [Runshuo Xie (谢润烁)](https://leonicatot.github.io/), Master, 2022-, on theory of CT (co-supervised with Prof. Nie)
 
-Ruibin Zhou (周瑞彬), Master, 2023-
-
 Ye Xiong (熊烨), Undergraduate, 2023- 
 
 Yao Luo (罗耀), Undergraduate, 2023- 
