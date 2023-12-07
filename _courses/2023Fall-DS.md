@@ -92,8 +92,8 @@ description:
 | 1.课程简介与基础   | 2023/9/7<br>2023/9/14<br />2023/9/21<br />2023/9/28      | [1.课程简介](/assets/pdf/2023Fall-DS/1.课程简介.pdf)<br>[2.算法分析基础](/assets/pdf/2023Fall-DS/2.算法分析基础.pdf)<br /> [3.基本数据结构](/assets/pdf/2023Fall-DS/3.基本数据结构.pdf)  [4.分治策略](/assets/pdf/2023Fall-DS/4.分治策略.pdf)<br /> [4.分治策略续](/assets/pdf/2023Fall-DS/4.分治策略续.pdf) |
 | 2.排序与选择       | 2023/9/28<br />2023/10/7<br />2023/10/12<br />2023/10/19 | [5.堆](/assets/pdf/2023Fall-DS/5.堆.pdf)<br /> [6.排序](/assets/pdf/2023Fall-DS/6.排序.pdf)<br /> [6.排序(续)](/assets/pdf/2023Fall-DS/6.排序(续).pdf)<br /> [7.选择](/assets/pdf/2023Fall-DS/7.选择.pdf) |
 | 3.查找及相关问题   | 2023/10/19<br />2023/10/26<br />2023/11/2<br />2023/11/9 | [8.树](/assets/pdf/2023Fall-DS/8.树.pdf) [9.搜索树](/assets/pdf/2023Fall-DS/9.搜索树.pdf)<br /> [9.搜索树(续)](/assets/pdf/2023Fall-DS/9.搜索树(续).pdf)  [补充：skiplist height expectation](/assets/pdf/2023Fall-DS/skiplist height expectation.pdf)<br /> [10.散列表](/assets/pdf/2023Fall-DS/10.散列表.pdf)<br /> [11.平摊分析](/assets/pdf/2023Fall-DS/11.平摊分析.pdf)  [12.并查集](/assets/pdf/2023Fall-DS/12.并查集.pdf) |
-| 4.图算法           | 2023/11/16<br />2023/11/23                               | [13.图及其遍历](/assets/pdf/2023Fall-DS/13.图及其遍历.pdf)<br /> [14.深度优先应用](/assets/pdf/2023Fall-DS/14.深度优先应用.pdf)  [15.最小生成树](/assets/pdf/2023Fall-DS/15.最小生成树.pdf) |
-| 5.算法设计思想     | 2023/11/30<br />2023/12/7                                | [16.贪心策略](/assets/pdf/2023Fall-DS/16.贪心策略.pdf)<br /> [17.单源最短路径](/assets/pdf/2023Fall-DS/17.单源最短路径.pdf) [18.全源最短路径](/assets/pdf/2023Fall-DS/18.全源最短路径.pdf) |
+| 4.图算法           | 2023/11/16<br />2023/11/23<br />2023/12/7                | [13.图及其遍历](/assets/pdf/2023Fall-DS/13.图及其遍历.pdf)<br /> [14.深度优先应用](/assets/pdf/2023Fall-DS/14.深度优先应用.pdf)  [15.最小生成树](/assets/pdf/2023Fall-DS/15.最小生成树.pdf)<br />[17.单源最短路径](/assets/pdf/2023Fall-DS/17.单源最短路径.pdf) [18.全源最短路径](/assets/pdf/2023Fall-DS/18.全源最短路径.pdf) |
+| 5.算法设计思想     | 2023/11/30<br />                                         | [16.贪心策略](/assets/pdf/2023Fall-DS/16.贪心策略.pdf)<br /> |
 | 6.高级算法（选讲） |                                                          |                                                              |
 
 <br>
