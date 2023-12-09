@@ -5,6 +5,7 @@ description:
 ---
 
 #### 公告
+- [2023/12/9] 第八次理论作业已发布，请同学们及时完成作业
 - [2023/11/24] 第七次理论作业已发布，请同学们及时完成作业
 - [2023/11/11] 第六次理论作业已发布，请同学们及时完成作业
 - [2023/11/3] 机试成绩已发布，请同学们在NJU Table查看自己的成绩
@@ -107,6 +108,7 @@ description:
 - [Assignment 5](/assets/pdf/2023Fall-DS/A5.pdf) , ddl: 2023/11/8 23:59
 - [Assignment 6](/assets/pdf/2023Fall-DS/A6.pdf) , ddl: 2023/11/19 23:59
 - [Assignment 7](/assets/pdf/2023Fall-DS/A7.pdf), ddl: 2023/12/10 23:59
+-  [Assignment 8](/assets/pdf/2023Fall-DS/A8.pdf), ddl: 2023/12/17 23:59
 
 #### 课本和参考材料
 
