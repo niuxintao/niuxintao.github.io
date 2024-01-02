@@ -107,7 +107,7 @@ description:
 - [Assignment 4](/assets/pdf/2023Fall-DS/A4.pdf) , ddl: 2023/10/22 23:59
 - [Assignment 5](/assets/pdf/2023Fall-DS/A5.pdf) , ddl: 2023/11/8 23:59
 - [Assignment 6](/assets/pdf/2023Fall-DS/A6.pdf) , ddl: 2023/11/19 23:59
-- [Assignment 7](/assets/pdf/2023Fall-DS/A7.pdf), ddl: 2023/12/10 23:59
+- [Assignment 7](/assets/pdf/2023Fall-DS/A7.pdf), ddl: 2023/12/10 23:59  [参考题解](/assets/pdf/2023Fall-DS/A7参考题解.pdf)
 -  [Assignment 8](/assets/pdf/2023Fall-DS/A8.pdf), ddl: 2023/12/17 23:59  [参考题解](/assets/pdf/2023Fall-DS/A8参考题解.pdf) 
 
 #### 课本和参考材料
