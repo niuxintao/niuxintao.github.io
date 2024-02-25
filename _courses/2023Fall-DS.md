@@ -4,22 +4,6 @@ title: 2023秋季 数据结构与算法
 description: 
 ---
 
-#### 公告
-- [2023/12/9] 第八次理论作业已发布，请同学们及时完成作业
-- [2023/11/24] 第七次理论作业已发布，请同学们及时完成作业
-- [2023/11/11] 第六次理论作业已发布，请同学们及时完成作业
-- [2023/11/3] 机试成绩已发布，请同学们在NJU Table查看自己的成绩
-- [2023/10/29] 第五次理论作业已发布，请同学们及时完成作业
-- [2023/10/23] 目前A2的提交情况已经统计出来，收到作业136份，10位同学没有提交
-- [2023/10/15] 请大家加入[NJU Table群组](https://table.nju.edu.cn/group-invite/0691abf6/)查看自己理论作业的提交情况。目前A1的提交情况已经统计出来，收到作业136份，10位同学没有提交
-- [2023/10/14] 第四次理论作业已发布，请同学们及时完成作业
-- [2023/10/9] OJ的IP地址从http://172.29.6.1更换至http://172.29.6.10
-- [2023/9/30] 第三次理论作业已发布，请同学们及时完成作业
-- [2023/9/23] 第二次理论作业已发布，请同学们及时完成作业
-- [2023/9/14] 第一次理论作业已发布，请同学们加入[SELearning](https://selearning.nju.edu.cn/)并及时完成作业
-- [2023/9/9] 在Piazza上创建课程群，欢迎需要匿名提问/反馈/讨论的同学加入（详见课程信息）
-- [2023/8/21] 发布课程网站
-
 #### 课程信息
 
 - 教师：[钮鑫涛](https://niuxintao.github.io) (niuxintao@nju.edu.cn)
@@ -101,14 +85,14 @@ description:
 
 #### 作业
 
-- [Assignment 1](/assets/pdf/2023Fall-DS/A1.pdf), ddl: 2023/9/22 24:00  [参考题解](/assets/pdf/2023Fall-DS/A1 参考题解.pdf) 
-- [Assignment 2](/assets/pdf/2023Fall-DS/A2.pdf), ddl: 2023/10/1 23:59  [参考题解](/assets/pdf/2023Fall-DS/A2 参考题解.pdf) 
-- [Assignment 3](/assets/pdf/2023Fall-DS/A3.pdf), ddl: 2023/10/8 23:59
-- [Assignment 4](/assets/pdf/2023Fall-DS/A4.pdf) , ddl: 2023/10/22 23:59
-- [Assignment 5](/assets/pdf/2023Fall-DS/A5.pdf) , ddl: 2023/11/8 23:59
-- [Assignment 6](/assets/pdf/2023Fall-DS/A6.pdf) , ddl: 2023/11/19 23:59
-- [Assignment 7](/assets/pdf/2023Fall-DS/A7.pdf), ddl: 2023/12/10 23:59  [参考题解](/assets/pdf/2023Fall-DS/A7参考题解.pdf)
--  [Assignment 8](/assets/pdf/2023Fall-DS/A8.pdf), ddl: 2023/12/17 23:59  [参考题解](/assets/pdf/2023Fall-DS/A8参考题解.pdf) 
+- Assignment 1, ddl: 2023/9/22 24:00 
+- Assignment 2, ddl: 2023/10/1 23:59 
+- Assignment 3, ddl: 2023/10/8 23:59
+- Assignment 4 , ddl: 2023/10/22 23:59
+- Assignment 5 , ddl: 2023/11/8 23:59
+- Assignment 6 , ddl: 2023/11/19 23:59
+- Assignment 7, ddl: 2023/12/10 23:59
+-  Assignment 8, ddl: 2023/12/17 23:59 
 
 #### 课本和参考材料
 
