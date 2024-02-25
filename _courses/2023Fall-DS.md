@@ -7,38 +7,26 @@ description:
 #### 课程信息
 
 - 教师：[钮鑫涛](https://niuxintao.github.io) (niuxintao@nju.edu.cn)
-
 - 助教：
   - 陈宏楠 (MG21330010@smail.nju.edu.cn)
   - 谢润烁 (幕后)
-  
 - 时间：周四 5-7节
-
 - 地点：南雍-西311
-
 - QQ群：892855425（申请加入需提供院系、姓名、学号）
-
 - [课程OJ](http://172.29.6.10) （仅校园网访问）
-
 - 理论作业平台：[SELearning](https://selearning.nju.edu.cn/)
-
   - [智能软件与工程学院 数据结构与算法](https://selearning.nju.edu.cn/course/view.php?id=140)
-
   - 选课码：**2023**
-
 - Office Hour （[什么是Office Hour?](https://lsc.cornell.edu/wp-content/uploads/2015/10/What-Are-Office-Hours.pdf)）
   - 周三下午 2:00~4:00
   - 周四上午 10:00~12:00
-
 - Piazza<br>由于QQ群现在的匿名机制不好用，以及在QQ群问问题容易被忽略，我们这学期尝试用[Piazza](https://piazza.com/)作为课程的论坛。我们不强制要求必须使用，但是我们非常推荐使用，因为Piazza有如下的好处：
   - 可以匿名提问或反馈<br>可以选择仅对同学们匿名（也就是说对老师助教不匿名），或者对所有人（包括老师和助教）都匿名
   - 问题可以用Markdown书写，并且支持LaTeX书写数学公式
   - 问题可以被分门别类，查找起来非常方便
   - 只要po了一个新问题，参与者都会收到一封通知邮件（可以手动关闭）
   - 老师和助教会对其中涉及课程内容进行回答（环境等问题可能不回答），可能在piazza上回答，也可能在课上讲
-
   <br>
-
   加入Piazza的方法：
   - 用[Signup Link](https://piazza.com/nju.edu.cn/fall2023/90311202)找到课程
   - 用Access Code: **isedsa2023**加入课程（此时需要输入邮箱，然后系统会自动帮你注册一个新的账号）
