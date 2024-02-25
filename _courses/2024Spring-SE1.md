@@ -9,7 +9,7 @@ description:
 - 教师：[钮鑫涛](https://niuxintao.github.io) (niuxintao@nju.edu.cn)
 - 助教：
   - 理论助教：谢润烁 (xiersh@smail.nju.edu.cn)
-  - 实验助教：招募中……
+  - 实验助教：丁旭行 (583634562@qq.com) 
 - 时间：周一 2-4节
 - 地点：新教207
 - QQ群：810644271（申请加入需提供院系、姓名、学号）
