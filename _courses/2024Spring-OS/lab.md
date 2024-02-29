@@ -33,7 +33,7 @@ $ git clone https://git.nju.edu.cn/jyy/os-workbench.git
 
 ### 2. 提交实验作业
 
-我们已经为选修课程的同学生成了唯一的秘钥，并以邮件形式发送到你的学号@smail.nju.edu.cn 邮箱，有遗漏的请联系 jyy。配置好 `Makefile` 中的 `TOKEN` 环境变量后，在相应的实验目录中 (而不是项目根目录) 中执行以下命令完成提交：
+我们已经为选修课程的同学生成了唯一的秘钥，并以邮件形式发送到你的学号@smail.nju.edu.cn 邮箱，有遗漏的请联系助教。配置好 `Makefile` 中的 `TOKEN` 环境变量后，在相应的实验目录中 (而不是项目根目录) 中执行以下命令完成提交：
 
 ```text
 $ make submit
