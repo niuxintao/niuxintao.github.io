@@ -8,7 +8,7 @@ nav: true
 
 ### Current Courses
 - [2024年春季：软件工程与计算（南京大学智能软件与工程学院）](/courses/2024Spring-SE1)
-- [2024年春季：操作系统（南京大学智能软件与工程学院）](/courses/2024Spring-OS)
+- [2024年春季：操作系统（南京大学智能软件与工程学院）](/courses/2024Spring-OS/main)
 
 ### Past Courses
 - [2023年秋季：数据结构与算法](/courses/2023Fall-DS)（南京大学智能软件与工程学院）
