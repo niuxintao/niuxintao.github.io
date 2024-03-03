@@ -37,17 +37,23 @@ description:
 
 ##### 参考资料
 
+教材：
 - [Composing Programs](http://www.composingprograms.com/) by [John DeNero](http://www.denero.org/)<br> 大名鼎鼎的SICP(Structure and Interpretation of Computer Programs)的Python版，CS61A的课程材料
+
+计算理论参考资料：
 - 《自动机理论、语言和计算导论》(Introduction to Automata Theory, Languages and Computation)，John E. Hopcroft/Rajeev Motwani/Jeffrey D. Ullman著
 - 《计算理论导引》(Introduction to the Theory of Computation)，Michael Sipser著
+
+程序设计语言参考资料：
 - 《流畅的python》，Luciano Ramalho著
 - 《JAVA核心技术（两卷）》，Cay S. Horstmann著
 
 ##### 课程安排
 
-| 日期      | 课件                                                         | 作业 | 课外阅读                                                     |
-| --------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| 2024/2/26 | [00 软件工程与计算1课程简介](/assets/pdf/2024Spring-SE1/00 软件工程与计算1课程简介.pdf)<br /> [01 基础-编程语言概述](/assets/pdf/2024Spring-SE1/01 基础-编程语言概述.pdf) |      | [补充阅读](/assets/pdf/2024Spring-SE1/01 编程语言概述 补充阅读.pdf) |
+| 日期      | 课件                                                         | 作业                                                         | 课外阅读                                                     |
+| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2024/2/26 | [00 软件工程与计算1课程简介](/assets/pdf/2024Spring-SE1/00 软件工程与计算1课程简介.pdf)<br /> [01 基础-编程语言概述](/assets/pdf/2024Spring-SE1/01 基础-编程语言概述.pdf) |                                                              | [补充阅读](/assets/pdf/2024Spring-SE1/01 编程语言概述 补充阅读.pdf) |
+| 2024/3/4  | [02 基础-可计算性](/assets/pdf/2024Spring-SE1/02 基础-可计算性.pdf) | [A1](/assets/pdf/2024Spring-SE1/A1-可计算性.pdf) **ddl: 3/17 23:59** |                                                              |
 
 
 
