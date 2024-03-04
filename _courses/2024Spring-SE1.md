@@ -56,8 +56,6 @@ description:
 | 2024/3/4  | [02 基础-可计算性](/assets/pdf/2024Spring-SE1/02 基础-可计算性.pdf) |      | [*On Computable Numbers, with an Application to the Entscheidungsproblem* by Alan Turing](/assets/pdf/2024Spring-SE1/Turing_Paper_1936.pdf) |
 |           |                                                              |      | [*An unsolvable problem of elementary number theory* by Alonzo Church](/assets/pdf/2024Spring-SE1/Church_Paper_1936.pdf)<br />[Peter Selinger's Notes on the Lambda Calculus](/assets/pdf/2024Spring-SE1/lambdanotes_Selinger.pdf)的前三章 |
 
-Peter Selinger's Notes on the Lambda Calculus
-
 
 
 
