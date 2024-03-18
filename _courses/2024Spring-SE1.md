@@ -55,7 +55,7 @@ description:
 | 2024/2/26 | [00 软件工程与计算1课程简介](/assets/pdf/2024Spring-SE1/00 软件工程与计算1课程简介.pdf)<br /> [01 基础-编程语言概述](/assets/pdf/2024Spring-SE1/01 基础-编程语言概述.pdf) | [补充阅读](/assets/pdf/2024Spring-SE1/01 编程语言概述 补充阅读.pdf) |
 | 2024/3/4  | [02 基础-可计算性](/assets/pdf/2024Spring-SE1/02 基础-可计算性.pdf) | \**[On Computable Numbers, with an Application to the Entscheidungsproblem](/assets/pdf/2024Spring-SE1/Turing_Paper_1936.pdf)* by Alan Turing |
 | 2024/3/11 | [03 基础-Lambda演算](/assets/pdf/2024Spring-SE1/03 基础-Lambda演算.pdf) | \**[An unsolvable problem of elementary number theory](/assets/pdf/2024Spring-SE1/Church_Paper_1936.pdf)* by Alonzo Church<br />[Peter Selinger's Notes on the Lambda Calculus](/assets/pdf/2024Spring-SE1/lambdanotes_Selinger.pdf)的前三章 |
-| 2024/3/18 | [03 基础-Lambda演算](/assets/pdf/2024Spring-SE1/03 基础-Lambda演算.pdf)<br />[03.a 基础理论总结](/assets/pdf/2024Spring-SE1/03.a 基础理论总结.pdf)<br /> [04 编程实践-程序设计基本元素](/assets/pdf/2024Spring-SE1/04 编程实践-程序设计基本元素.pdf) |                                                              |
+| 2024/3/18 | [03 基础-Lambda演算](/assets/pdf/2024Spring-SE1/03 基础-Lambda演算.pdf)<br />[03.a 基础理论总结](/assets/pdf/2024Spring-SE1/03.a 基础理论总结.pdf)<br /> [04 编程实践-程序设计基本元素](/assets/pdf/2024Spring-SE1/04 编程实践-程序设计基本元素.pdf)<br />[01-Code](/assets/pdf/2024Spring-SE1/01-Code.zip) |                                                              |
 
 \*代表为难度较高的材料，学有余力且感兴趣的同学可以去看看
 
@@ -63,7 +63,7 @@ description:
 
 | 日期      | 作业                                                         |
 | --------- | :----------------------------------------------------------- |
-| 2024/3/18 | [A1](/assets/pdf/2024Spring-SE1/A1.pdf) ddl: 2024/3/31 23:59<br /> [A2](/assets/pdf/2024Spring-SE1/A2.pdf) ddl: 2024/4/7 23:59 |
+| 2024/3/18 | [A1](/assets/pdf/2024Spring-SE1/A1.pdf) ddl: 2024/3/31 23:59<br /> [A2](/assets/pdf/2024Spring-SE1/A2.pdf) ddl: 2024/4/7 23:59<br /> |
 |           |                                                              |
 |           |                                                              |
 
