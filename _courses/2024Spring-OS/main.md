@@ -52,6 +52,7 @@ when everything is going smoothly."
 | 2024/3/1  | 【绪论】[操作系统概述](/assets/pdf/2024Spring-OS/1.绪论-操作系统概述.pdf) |             |                                                            |
 | 2024/3/15 | 【绪论】[操作系统的各种视角](/assets/pdf/2024Spring-OS/2.绪论-操作系统的各种视角.pdf) | [M1](../M1) | [第二课代码.zip](/assets/pdf/2024Spring-OS/第二课代码.zip) |
 | 2024/3/22 | 【并发】[多处理器编程](/assets/pdf/2024Spring-OS/3.[并发]多处理器编程.pdf) | [L0](../L0) | [汇编语言学习](https://asmtutor.com/)                      |
+| 2024/3/29 | 【并发】[互斥](/assets/pdf/2024Spring-OS/4.[并发]互斥.pdf)   |             |                                                            |
 
 ##### 考核方式
 
