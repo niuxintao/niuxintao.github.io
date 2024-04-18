@@ -55,6 +55,9 @@ when everything is going smoothly."
 | 2024/3/29 | 【并发】[互斥](/assets/pdf/2024Spring-OS/4.[并发]互斥.pdf)   | [M2](../M2) | [第四课代码.zip](/assets/pdf/2024Spring-OS/第四课代码.zip)   |
 | 2024/4/7  | 【并发】[互斥(续)](/assets/pdf/2024Spring-OS/5.[并发]互斥(续).pdf) |             | [第五课代码.zip](/assets/pdf/2024Spring-OS/第五课代码.zip)   |
 | 2024/4/12 | 【并发】[同步](/assets/pdf/2024Spring-OS/6.[并发]同步.pdf)   | [L1](../L1) | [第六课代码.zip](/assets/pdf/2024Spring-OS/第六课代码.zip)   |
+| 2024/4/19 | 【并发】[同步_进阶.pdf](/assets/pdf/2024Spring-OS/7.[并发]同步_进阶.pdf) |             |                                                              |
+|           |                                                              |             |                                                              |
+|           |                                                              |             |                                                              |
 
 ##### 考核方式
 
