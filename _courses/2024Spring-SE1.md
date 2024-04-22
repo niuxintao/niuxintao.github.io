@@ -60,7 +60,7 @@ description:
 | 2024/4/1  | [06 - 2 编程实践-递归](/assets/pdf/2024Spring-SE1/06 - 2编程实践-递归.pdf)<br />演示代码： [03-Code](/assets/pdf/2024Spring-SE1/03-Code.zip) |                                                              |
 | 2024/4/7  | [07 - 1 编程实践-数据抽象](/assets/pdf/2024Spring-SE1/07 - 1 编程实践-数据抽象.pdf)<br /> [07 - 2 编程实践-容器](/assets/pdf/2024Spring-SE1/07 - 2 编程实践-容器.pdf)<br /> 演示代码：[04-Code](/assets/pdf/2024Spring-SE1/04-Code.zip) |                                                              |
 | 2024/4/15 | [08 - 1 编程实践-可变性](/assets/pdf/2024Spring-SE1/08 - 1 编程实践-可变性.pdf)<br /> 演示代码：[05-Code](/assets/pdf/2024Spring-SE1/05-Code.zip) |                                                              |
-| 2024/4/22 | [08 - 2 编程实践-迭代器和生成器](/assets/pdf/2024Spring-SE1/08 - 2 编程实践-迭代器和生成器.pdf)<br />[09 编程进阶-面向对象](/assets/pdf/2024Spring-SE1/09 编程进阶-面向对象.pdf) |                                                              |
+| 2024/4/22 | [08 - 2 编程实践-迭代器和生成器](/assets/pdf/2024Spring-SE1/08 - 2 编程实践-迭代器和生成器.pdf)<br />[09 编程进阶-面向对象](/assets/pdf/2024Spring-SE1/09 编程进阶-面向对象.pdf)<br />演示代码：[06-Code](/assets/pdf/2024Spring-SE1/06-Code.zip) |                                                              |
 |           |                                                              |                                                              |
 
 \*代表为难度较高的材料，学有余力且感兴趣的同学可以去看看
@@ -77,7 +77,7 @@ description:
 |           | ~~hw2 ddl: 4.3 0:00 —— 4.11 12:00~~                          |                                                              |
 |           | proj1 ddl: 4.3 0:00 —— 4.25 12:00                            |                                                              |
 | 2024/4/10 | ~~lab3 ddl: 4.10 12:00 —— 4.13 12:00~~                       |                                                              |
-|           | hw3 ddl: 4.10 12:00 —— 4.17 12:00                            |                                                              |
+|           | ~~hw3 ddl: 4.10 12:00 —— 4.17 12:00~~                        |                                                              |
 
 
 ---
