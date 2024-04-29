@@ -61,6 +61,8 @@ description:
 | 2024/4/7  | [07 - 1 编程实践-数据抽象](/assets/pdf/2024Spring-SE1/07 - 1 编程实践-数据抽象.pdf)<br /> [07 - 2 编程实践-容器](/assets/pdf/2024Spring-SE1/07 - 2 编程实践-容器.pdf)<br /> 演示代码：[04-Code](/assets/pdf/2024Spring-SE1/04-Code.zip) |                                                              |
 | 2024/4/15 | [08 - 1 编程实践-可变性](/assets/pdf/2024Spring-SE1/08 - 1 编程实践-可变性.pdf)<br /> 演示代码：[05-Code](/assets/pdf/2024Spring-SE1/05-Code.zip) |                                                              |
 | 2024/4/22 | [08 - 2 编程实践-迭代器和生成器](/assets/pdf/2024Spring-SE1/08 - 2 编程实践-迭代器和生成器.pdf)<br />[09 编程进阶-面向对象](/assets/pdf/2024Spring-SE1/09 编程进阶-面向对象.pdf)<br />演示代码：[06-Code](/assets/pdf/2024Spring-SE1/06-Code.zip) |                                                              |
+| 2024/4/29 | [10 - 1 编程进阶-继承](/assets/pdf/2024Spring-SE1/10 - 1 编程进阶-继承.pdf)<br /> [10 - 2 编程进阶-多态](/assets/pdf/2024Spring-SE1/10 - 2 编程进阶-多态.pdf) |                                                              |
+|           |                                                              |                                                              |
 |           |                                                              |                                                              |
 
 \*代表为难度较高的材料，学有余力且感兴趣的同学可以去看看
