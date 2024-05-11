@@ -58,7 +58,7 @@ when everything is going smoothly."
 | 2024/4/19 | 【并发】[同步_进阶](/assets/pdf/2024Spring-OS/7.[并发]同步_进阶.pdf) |             |                                                              |
 | 2024/4/26 | 【并发】[并发bugs](/assets/pdf/2024Spring-OS/8.[并发]并发bugs.pdf) | [M3](../M3) | [第八课代码.zip](/assets/pdf/2024Spring-OS/第八课代码.zip)   |
 | 2024/5/10 | 【虚拟化】[进程](/assets/pdf/2024Spring-OS/9.[虚拟化]进程.pdf) |             |                                                              |
-| 2024/5/11 | 【虚拟化】 [调度](/assets/pdf/2024Spring-OS/10.[虚拟化]调度.pdf) |             |                                                              |
+| 2024/5/11 | 【虚拟化】 [调度](/assets/pdf/2024Spring-OS/10.[虚拟化]调度.pdf) |             | [第九课代码.zip](/assets/pdf/2024Spring-OS/第九课代码.zip)   |
 |           |                                                              |             |                                                              |
 |           |                                                              |             |                                                              |
 |           |                                                              |             |                                                              |
