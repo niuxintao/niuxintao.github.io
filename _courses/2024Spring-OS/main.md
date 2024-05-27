@@ -60,7 +60,7 @@ when everything is going smoothly."
 | 2024/5/10 | 【虚拟化】[进程](/assets/pdf/2024Spring-OS/9.进程.pdf)       |                              |                                                              |
 | 2024/5/11 | 【虚拟化】 [调度](/assets/pdf/2024Spring-OS/10.调度.pdf)     | [M4](../M4)<br />[M5](../M5) | [第九课代码.zip](/assets/pdf/2024Spring-OS/第九课代码.zip)   |
 | 2024/5/17 | 【虚拟化】 [地址空间](/assets/pdf/2024Spring-OS/11.地址空间.pdf) |                              |                                                              |
-|           |                                                              |                              |                                                              |
+| 2024/5/24 | 【虚拟化】[地址空间_续](/assets/pdf/2024Spring-OS/12.地址空间_续.pdf) |                              | [第十二节课代码.zip](/assets/pdf/2024Spring-OS/第十二节课代码.zip) |
 |           |                                                              |                              |                                                              |
 |           |                                                              |                              |                                                              |
 |           |                                                              |                              |                                                              |
