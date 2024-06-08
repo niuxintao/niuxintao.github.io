@@ -62,7 +62,7 @@ when everything is going smoothly."
 | 2024/5/17 | 【虚拟化】 [地址空间](/assets/pdf/2024Spring-OS/11.地址空间.pdf) |                              |                                                              |
 | 2024/5/24 | 【虚拟化】[地址空间_续](/assets/pdf/2024Spring-OS/12.地址空间_续.pdf) |                              | [第十二节课代码.zip](/assets/pdf/2024Spring-OS/第十二节课代码.zip) |
 | 2024/5/31 | 【持久化】[设备管理](/assets/pdf/2024Spring-OS/13.设备管理.pdf) | [L2](../L2)                  |                                                              |
-| 2024/6/7  |                                                              |                              |                                                              |
+| 2024/6/7  | 【持久化】[文件系统](/assets/pdf/2024Spring-OS/14.文件系统.pdf) |                              |                                                              |
 | 2024/6/14 |                                                              |                              |                                                              |
 
 ##### 考核方式
