@@ -63,7 +63,7 @@ when everything is going smoothly."
 | 2024/5/24 | 【虚拟化】[地址空间_续](/assets/pdf/2024Spring-OS/12.地址空间_续.pdf) |                              | [第十二节课代码.zip](/assets/pdf/2024Spring-OS/第十二节课代码.zip) |
 | 2024/5/31 | 【持久化】[设备管理](/assets/pdf/2024Spring-OS/13.设备管理.pdf) | [L2](../L2)                  |                                                              |
 | 2024/6/7  | 【持久化】[文件系统](/assets/pdf/2024Spring-OS/14.文件系统.pdf) |                              |                                                              |
-| 2024/6/14 | 【持久化】[存储层之间的交互](/assets/pdf/2024Spring-OS/15.存储层之间的交互.pdf)<br />【Bonus!!】[蒋炎岩老师](https://ics.nju.edu.cn/~jyy/)的[Guest Lecture](https://jyywiki.cn/OS/2024/guest.md)<br />【完结撒花】[课程总结.pdf](/assets/pdf/2024Spring-OS/16.课程总结.pdf) |                              |                                                              |
+| 2024/6/14 | 【持久化】[存储层之间的交互](/assets/pdf/2024Spring-OS/15.存储层之间的交互.pdf)<br />【Bonus!!】[蒋炎岩老师](https://ics.nju.edu.cn/~jyy/)的[Guest Lecture](https://jyywiki.cn/OS/2024/guest.md)<br />【完结撒花】[课程总结](/assets/pdf/2024Spring-OS/16.课程总结.pdf) |                              |                                                              |
 
 ##### 考核方式
 
