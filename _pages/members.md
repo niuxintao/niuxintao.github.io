@@ -41,6 +41,8 @@ Yan Shi (史言), Undergraduate, 2023-
 
 Zecao Ji (纪泽操), Undergraduate, 2023- 
 
+Leyan Huang (黄乐岩), Undergraduate, 2023- 
+
 #### Alumni
 
 Gang Li (李刚), Master, 2019-2021 -> Huawei
