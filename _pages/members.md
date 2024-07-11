@@ -55,6 +55,6 @@ Chengcheng Zhou (周成乘), Master, 2020-2023 -> Zhejiang Tobacco Company
 
 Siyi Zhang (张思熠), Master, 2019-2023  -> Samsung
 
-Hongnan Chen (陈宏楠), Master, 2021-2024 -> Honor, on CA generation by novel method
+Hongnan Chen (陈宏楠), Master, 2021-2024 -> Honor
 
-Jiaming Fan (范佳明), Master, 2021-2024 -> Changan Automobile, on fault localization of CT
+Jiaming Fan (范佳明), Master, 2021-2024 -> Changan Automobile
