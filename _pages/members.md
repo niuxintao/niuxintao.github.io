@@ -9,8 +9,6 @@ nav: true
 
 Yan Wang (王燕), PhD, 2021-, on adaptive CT (co-supervised with Prof. Nie)
 
-[Runshuo Xie (谢润烁)](https://leonicatot.github.io/), Master, 2022-, on theory of CT (co-supervised with Prof. Nie)
-
 Ye Xiong (熊烨), Undergraduate, 2023- 
 
 Yao Luo (罗耀), Undergraduate, 2023- 
@@ -42,6 +40,8 @@ Yan Shi (史言), Undergraduate, 2023-
 Zecao Ji (纪泽操), Undergraduate, 2023- 
 
 Leyan Huang (黄乐岩), Undergraduate, 2023- 
+
+[Runshuo Xie (谢润烁)](https://leonicatot.github.io/), PhD, 2024-, 
 
 #### Alumni
 
