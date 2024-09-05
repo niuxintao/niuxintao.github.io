@@ -7,7 +7,7 @@ description:
 #### 课程信息
 
 - 教师：[钮鑫涛](https://niuxintao.github.io) (niuxintao@nju.edu.cn)
-- 助教：TBD
+- 助教：刘理为 (522023720004@smail.nju.edu.cn)
 - 时间：周五 5-7节 1-17周 
 - 地点：南雍-西105
 - QQ群：329361578（申请加入需提供院系、姓名、学号）
