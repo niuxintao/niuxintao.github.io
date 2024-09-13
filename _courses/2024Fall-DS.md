@@ -12,6 +12,7 @@ description:
 - 地点：南雍-西311
 - QQ群：329361578（申请加入需提供院系、姓名、学号）
 - 课程OJ：https://iseoj.nju.edu.cn/
+- [Piazza](https://piazza.com/nju.edu.cn/fall2024/90311202)的access code：avfgrbklziv
 
 #### 前导知识 
 
