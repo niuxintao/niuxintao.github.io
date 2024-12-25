@@ -41,7 +41,7 @@ Zecao Ji (纪泽操), Undergraduate, 2023-
 
 Leyan Huang (黄乐岩), Undergraduate, 2023- 
 
-[Runshuo Xie (谢润烁)](https://leonicatot.github.io/), PhD, 2024-, 
+Runshuo Xie (谢润烁), PhD, 2024-, 
 
 #### Alumni
 
@@ -57,4 +57,4 @@ Siyi Zhang (张思熠), Master, 2019-2023  -> Samsung
 
 Hongnan Chen (陈宏楠), Master, 2021-2024 -> Honor
 
-Jiaming Fan (范佳明), Master, 2021-2024 -> Changan Automobile
+Jiaming Fan (范佳明), Master, 2021-2024 -> Chang'an Automobile
