@@ -46,8 +46,8 @@ when everything is going smoothly."
 | 日期      | 课件                                                         | 作业 | 相关代码 |
 | --------- | ------------------------------------------------------------ | ---- | -------- |
 | 2025/2/21 | [1.[绪论]操作系统概述](/assets/pdf/2025Spring-OS/1.[绪论]操作系统概述.pdf) |      |          |
-| 2025/2/28 | [2.[绪论]操作系统的各种视角](/assets/pdf/2025Spring-OS/2.[绪论]操作系统的各种视角.pdf) |      |          |
-| 2025/3/7 | [3.[并发]多处理器编程](/assets/pdf/2025Spring-OS/3.[并发]多处理器编程.pdf) | [M1](../M1) |          |
+| 2025/2/28 | [2.[绪论]操作系统的各种视角](/assets/pdf/2025Spring-OS/2.[绪论]操作系统的各种视角.pdf) |      | [abstract-view.zip](/assets/pdf/2025Spring-OS/abstract-view.zip) |
+| 2025/3/7 | [3.[并发]多处理器编程](/assets/pdf/2025Spring-OS/3.[并发]多处理器编程.pdf) | [M1](../M1) | [第三课代码.zip](/assets/pdf/2025Spring-OS/第三课代码.zip) |
 
 <br/>
 
