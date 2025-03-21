@@ -49,7 +49,7 @@ when everything is going smoothly."
 | 2025/2/28 | [2.[绪论]操作系统的各种视角](/assets/pdf/2025Spring-OS/2.[绪论]操作系统的各种视角.pdf) |      | [abstract-view.zip](/assets/pdf/2025Spring-OS/abstract-view.zip) |
 | 2025/3/7 | [3.[并发]多处理器编程](/assets/pdf/2025Spring-OS/3.[并发]多处理器编程.pdf) | [M1](../M1) | [第三课代码.zip](/assets/pdf/2025Spring-OS/第三课代码.zip) |
 | 2025/3/14 | [4.[并发]互斥](/assets/pdf/2025Spring-OS/4.[并发]互斥.pdf) |  | [第四课代码.zip](/assets/pdf/2025Spring-OS/第四课代码.zip) |
-|  |  |  |  |
+| 2025/3/21 | [5.[并发]互斥_进阶](/assets/pdf/2025Spring-OS/5.[并发]互斥_进阶.pdf) | [M2](../M2) |  |
 
 <br/>
 
