@@ -52,6 +52,7 @@ when everything is going smoothly."
 | 2025/3/21 | [5.[并发]互斥_进阶](/assets/pdf/2025Spring-OS/5.[并发]互斥_进阶.pdf) | [M2](../M2) |  |
 | 2025/3/28 | [6.[并发]同步](/assets/pdf/2025Spring-OS/6.[并发]同步.pdf) |  |  |
 | 2025/4/11 | [7.[并发]同步_进阶](/assets/pdf/2025Spring-OS/7.[并发]同步_进阶.pdf) |  |  |
+| 2025/4/18 |  | [M3](../M3) |  |
 |  |  |  |  |
 
 <br/>
