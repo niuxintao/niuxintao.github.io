@@ -1,5 +1,19 @@
 ---
 ---
+
+% 
+@inproceedings{xu2025,
+  title={Effective REST APIs Testing with Error Message Analysis},
+  abbr={ISSTA},
+  booktitle={International Symposium on Software Testing and Analysis},
+  author={Lixin Xu and Huayao Wu and Zhenyu Pan and Tongtong Xu and Shaohua Wang and Xintao Niu and and Changhai Nie},
+  year={2025},
+  publisher={ACM},
+  abstract={REST APIs are essential in building modern enterprise systems, while effectively examining their behaviors remains challenging due to the difficulty in inferring constraints from the specifications. To generate valid test inputs for REST APIs, existing approaches are typically feedback-driven, leveraging HTTP status codes received to guide further test input generation. However, these approaches overlook the potentially valuable information described in error messages accompanying HTTP status codes, leading to inefficiencies in exploring the input space of REST APIs. In this paper, we propose EmRest, a black-box testing approach that leverages error message analysis to enhance both valid and exceptional test input generation for REST APIs. For each operation under test, EmRest first identifies all possible value assignment strategies for each of its input parameters. It then repeatedly applies combinatorial testing to sample test inputs based on these strategies, and statistically analyzes the error messages (of 400-range status code) received to infer and exclude invalid combinations of value assignment strategies (i.e., constraints of the input space). Additionally, EmRest seeks to mutate valid value assignment strategies that are finally identified to generate test inputs for exceptional testing. The error messages (of 500-range status code) received are categorized to identify bug-prone operations, for which more testing resources are allocated. Our experimental results on 16 real-world REST APIs demonstrates the effectiveness of EmRest. It achieves higher operation coverage than state-of-the-art approaches in 50% of APIs, and detects 226 unique bugs that cannot be found by the other approaches.
+  }, 
+  bibtex_show={true},
+}
+
 @article{Wangyan2024,
   author={Yan Wang and Xintao Niu* and Huayao Wu and Changhai Nie and Lei Yu and Xiaoyin Wang and Jiaxi Xu}, 
   title={Top-down: A better strategy for incremental covering array generation}, 
