@@ -13,6 +13,8 @@ PI, National Natural Science Foundation of China [Young Scientists Program], 202
 
 ### Awards
 
+2024年度南京大学东吴证券奖教金
+
 江苏省计算机学会优秀博士论文
 
 江苏省计算机学会科学技术奖一等奖
