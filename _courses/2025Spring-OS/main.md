@@ -53,6 +53,7 @@ when everything is going smoothly."
 | 2025/3/28 | [6.[并发]同步](/assets/pdf/2025Spring-OS/6.[并发]同步.pdf) |  |  |
 | 2025/4/11 | [7.[并发]同步_进阶](/assets/pdf/2025Spring-OS/7.[并发]同步_进阶.pdf) |  |  |
 | 2025/4/18 | [8.[并发]并发bugs](/assets/pdf/2025Spring-OS/8.[并发]并发bugs.pdf) | [M3](../M3) |  |
+| 2025/4/25 | [9.[虚拟化]进程.pdf](/assets/pdf/2025Spring-OS/9.[虚拟化]进程.pdf) |  |  |
 |  |  |  |  |
 
 <br/>
