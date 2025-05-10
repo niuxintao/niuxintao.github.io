@@ -15,6 +15,10 @@ Liwei Liu (刘理为), PhD, 2025-,
 
 Xuehai Jia (贾学海), PhD, 2025-, 
 
+Zhenbin Huang (黄振斌), Master, 2024-, 
+
+Chuang Yuan (袁闯), Master, 2024-, 
+
 #### Alumni
 
 Gang Li (李刚), Master, 2019-2021 -> Huawei
