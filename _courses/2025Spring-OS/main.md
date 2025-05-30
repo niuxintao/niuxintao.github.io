@@ -53,10 +53,11 @@ when everything is going smoothly."
 | 2025/3/28 | [6.[并发]同步](/assets/pdf/2025Spring-OS/6.[并发]同步.pdf) |  |  |
 | 2025/4/11 | [7.[并发]同步_进阶](/assets/pdf/2025Spring-OS/7.[并发]同步_进阶.pdf) |  |  |
 | 2025/4/18 | [8.[并发]并发bugs](/assets/pdf/2025Spring-OS/8.[并发]并发bugs.pdf) | [M3](../M3) |  |
-| 2025/4/25 | [9.[虚拟化]进程.pdf](/assets/pdf/2025Spring-OS/9.[虚拟化]进程.pdf) |  |  |
-| 2025/5/9 | [10.[虚拟化]调度.pdf](/assets/pdf/2025Spring-OS/10.[虚拟化]调度.pdf) | [M4](../M4) |  |
-| 2025/5/16 | [11.[虚拟化]地址空间.pdf](/assets/pdf/2025Spring-OS/11.[虚拟化]地址空间.pdf) |  |  |
-| 2025/5/23 | [12.[虚拟化]地址空间_续.pdf](/assets/pdf/2025Spring-OS/12.[虚拟化]地址空间_续.pdf) | [M5](../M5) |  |
+| 2025/4/25 | [9.[虚拟化]进程](/assets/pdf/2025Spring-OS/9.[虚拟化]进程.pdf) |  |  |
+| 2025/5/9 | [10.[虚拟化]调度](/assets/pdf/2025Spring-OS/10.[虚拟化]调度.pdf) | [M4](../M4) |  |
+| 2025/5/16 | [11.[虚拟化]地址空间](/assets/pdf/2025Spring-OS/11.[虚拟化]地址空间.pdf) |  |  |
+| 2025/5/23 | [12.[虚拟化]地址空间_续](/assets/pdf/2025Spring-OS/12.[虚拟化]地址空间_续.pdf) | [M5](../M5) |  |
+| 2025/5/30 | [13.[持久化]设备管理](/assets/pdf/2025Spring-OS/13.[持久化]设备管理.pdf) |  |  |
 |  |  |  |  |
 
 <br/>
