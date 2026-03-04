@@ -7,9 +7,10 @@ nav: true
 ---
 
 ### Current Courses
-- [2025年秋季：数据结构与算法（南京大学智能软件与工程学院）](/courses/2025Fall-DS)
+- [2026年春季：操作系统（南京大学智能软件与工程学院）](/courses/2026Spring-OS/main)
 
 ### Past Courses
+- [2025年秋季：数据结构与算法（南京大学智能软件与工程学院）](/courses/2025Fall-DS)
 - [2025年春季：操作系统（南京大学智能软件与工程学院）](/courses/2025Spring-OS/main)
 - [2024年秋季：软件测试与编译优化讨论班](/courses/2024Fall-Seminar)
 - [2024年秋季：数据结构与算法（南京大学智能软件与工程学院）](/courses/2024Fall-DS)
