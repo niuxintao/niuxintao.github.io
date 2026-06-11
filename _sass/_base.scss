@@ -630,8 +630,10 @@ footer.sticky-bottom {
         }
 
         >em {
-          border-bottom: 1px solid;
+          color: var(--global-theme-color);
+          border-bottom: 2px solid var(--global-theme-color);
           font-style: normal;
+          font-weight: 600;
         }
 
         >span.more-authors {

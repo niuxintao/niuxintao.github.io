@@ -39,6 +39,17 @@
         {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
           {% assign author_array_limit = site.max_author_limit %}
         {% endif %}
+        {%- assign self_in_visible_authors = false -%}
+        {%- for author in entry.author_array limit: author_array_limit -%}
+          {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
+          {%- if site.scholar.last_name contains author_last_name and site.scholar.first_name contains author.first -%}
+            {%- assign self_in_visible_authors = true -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {%- if self_in_visible_authors == false and author_array_size > author_array_limit -%}
+          {% assign author_array_limit = author_array_size %}
+        {%- endif -%}
 
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
