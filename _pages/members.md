@@ -15,10 +15,6 @@ Xuehai Jia (贾学海), PhD, 2025-,
 
 Dawei Nie (聂大为), PhD, 2023-, 
 
-Zhenbin Huang (黄振斌), Master, 2024-, 
-
-Chuang Yuan (袁闯), Master, 2024-, 
-
 Lilan Zheng (郑力澜), Master, 2025-, 
 
 Rui Li (李睿), Master, 2025-, 
@@ -46,3 +42,7 @@ Hongnan Chen (陈宏楠), Master, 2021-2024 -> Honor
 Jiaming Fan (范佳明), Master, 2021-2024 -> Chang'an Automobile
 
 Yan Wang (王燕), PhD, 2021-2025 -> NanJing XiaoZhuang University
+
+Zhenbin Huang (黄振斌), Master, 2024-2026 -> Tencent
+
+Chuang Yuan (袁闯), Master, 2024-2026 -> BYD
