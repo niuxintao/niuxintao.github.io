@@ -15,6 +15,20 @@ Xuehai Jia (贾学海), PhD, 2025-,
 
 Dawei Nie (聂大为), PhD, 2023-, 
 
+Zhihao Liang (梁志浩), PhD, 2026-,
+
+Shide Liang (梁世德), Master, 2026-,
+
+Guangwei Zhang (张桄玮), Master, 2026-,
+
+Kepeng Zhang (张科鹏), Master, 2026-,
+
+Jiashen Wei (卫佳申), Master, 2026-,
+
+Baoyuan Luo (骆葆源), Master, 2026-,
+
+Yutian Zhou (周禹天), Master, 2026-,
+
 Lilan Zheng (郑力澜), Master, 2025-, 
 
 Rui Li (李睿), Master, 2025-, 
