@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-中文简介：钮鑫涛，新体制准聘副教授，博士生导师，于2019年获得南京大学博士学位。主要研究方向为：软件测试与分析（主要为组合测试理论）、故障定位。
+中文简介：钮鑫涛，准聘副教授，博士生导师，于2019年获得南京大学博士学位。主要研究方向为：软件测试与分析（主要为组合测试理论）、故障定位。
 
 我们常年招收本科生、硕士生和博士生，如果想成为我们团队的一员，不妨先看一下[这个页面](/join-us/)。如果对软件测试等领域感兴趣的话，也欢迎随时联系。
 
