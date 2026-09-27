@@ -619,7 +619,7 @@ footer.sticky-bottom {
           padding-left: 0.6rem;
           padding-right: 0.6rem;
           background-color: var(--global-award-bg-color);
-          color: var(--global-award-text-color);
+          color: var(--global-award-text-color) !important;
           border: 1px solid var(--global-award-color);
 
           i {
