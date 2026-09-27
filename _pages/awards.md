@@ -13,6 +13,8 @@ PI, National Natural Science Foundation of China [Young Scientists Program], 202
 
 ### Awards
 
+OOPSLA 2026 Distinguished Paper Award (*Automated Debugging of Datalog Programs*)
+
 2024年度南京大学东吴证券奖教金
 
 江苏省计算机学会优秀博士论文

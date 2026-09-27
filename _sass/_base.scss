@@ -619,6 +619,18 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .award-line {
+        color: var(--global-theme-color);
+        font-size: 0.95rem;
+        margin: 0.15rem 0 0.2rem;
+
+        .award-desc {
+          display: block;
+          color: var(--global-text-color-light);
+          font-size: 0.85rem;
+        }
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);

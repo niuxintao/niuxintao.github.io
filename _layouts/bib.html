@@ -25,12 +25,22 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        {%- if entry.award -%}
+          <abbr class="badge award" title="{{ entry.award }}"><i class="fas fa-trophy"></i> Award</abbr>
+        {%- endif -%}
         </div>
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
+        {%- if entry.award %}
+        <!-- Award -->
+        <div class="award-line">
+          <i class="fas fa-trophy"></i> <strong>{{ entry.award }}</strong>
+          {%- if entry.award_desc %}<span class="award-desc">{{ entry.award_desc }}</span>{%- endif %}
+        </div>
+        {%- endif %}
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
