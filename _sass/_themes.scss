@@ -18,6 +18,9 @@
   --global-card-bg-color: #{$white-color};
 
   --global-tip-block: #42b983;
+  --global-award-color: #C9920E;
+  --global-award-text-color: #8A6100;
+  --global-award-bg-color: #FFF6DC;
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;
   --global-tip-block-title: #359469;
@@ -63,6 +66,9 @@ html[data-theme='dark'] {
   --global-card-bg-color: #{$grey-900};
 
   --global-tip-block: #42b983;
+  --global-award-color: #F2C14E;
+  --global-award-text-color: #F2C14E;
+  --global-award-bg-color: rgba(242, 193, 78, 0.12);
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;
   --global-tip-block-title: #359469;
