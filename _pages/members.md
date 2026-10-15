@@ -7,7 +7,7 @@ nav: true
 ---
 #### Current
 
-Runshuo Xie (谢润烁), PhD, 2024-, 
+[Runshuo Xie (谢润烁)](https://xiersh.github.io/), PhD, 2024-, 
 
 Liwei Liu (刘理为), PhD, 2025-, 
 
