@@ -6,6 +6,10 @@ description:
 nav: true
 ---
 
+- 2026.11.06, [2026 CCF 中国软件大会 (ChinaSoft 2026) 顶会顶刊论坛](https://mp.weixin.qq.com/s/2xOkpFzDuUy6jNs3kDu8pw), 天津, [slides (in Chinese)](/assets/pdf/talks/Datalog程序的自动缺陷定位.pdf).
+
+  Datalog程序的自动缺陷定位 (Automated Debugging of Datalog Programs)
+  
 - 2023.08.20, 第六届全国蜕变测试研讨会, 昆明, [slides (in English)](/assets/pdf/talks/蜕变关系在组合测试中的应用.pdf).
 
   蜕变关系在组合测试中的应用 (Applying Metamorphic Relations in Combinatorial Testing)
