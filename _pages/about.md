@@ -8,7 +8,7 @@ profile:
   align: right
   image: niu.jpeg
   address: >
-    <p>Computer Science Building 1019</p>
+    <p>Computer Science Building 919</p>
     <p>163 Xianlin Avenue, Qixia District </p>
     <p>Nanjing, China, 210023</p>
     <p>niuxintao[at]nju.edu.cn</p>

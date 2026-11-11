@@ -7,15 +7,15 @@ nav: true
 ---
 #### Current
 
-[Runshuo Xie (谢润烁)](https://xiersh.github.io/), PhD, 2024-, 
+Zhihao Liang (梁志浩), PhD, 2026-, 
 
 Liwei Liu (刘理为), PhD, 2025-, 
 
 Xuehai Jia (贾学海), PhD, 2025-, 
 
-Dawei Nie (聂大为), PhD, 2023-, 
+[Runshuo Xie (谢润烁)](https://xiersh.github.io/), PhD, 2024-, 
 
-Zhihao Liang (梁志浩), PhD, 2026-,
+Dawei Nie (聂大为), PhD, 2023-, 
 
 Shide Liang (梁世德), Master, 2026-,
 
